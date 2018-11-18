@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Project Description:
 An Api that fetches product details such as name, description, image, product rating and product category, etc based on input text
 A front-end code in javascript using the API and process the result. 
@@ -17,3 +18,6 @@ Unit Test
 # EcommerceProductAPI
 REST API for ecommerce for product details
 >>>>>>> 4bfa8cf4b614f4712a907d9db73de950bd4da620
+=======
+
+>>>>>>> 51c4ab701ffa4ed0a53ad7bce90111ad655f21b7
