@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 Project Description:
 An Api that fetches product details such as name, description, image, product rating and product category, etc based on input text
 A front-end code in javascript using the API and process the result. 
